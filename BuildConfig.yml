@@ -8,5 +8,5 @@ spec:
       uri: https://github.com/praveenrachamreddy/openshiftcicd.git
   strategy:
     jenkinsPipelineStrategy:
-      jenkinsfilePath: /
+      jenkinsfilePath: /jenkinsfile
     type: JenkinsPipeline
