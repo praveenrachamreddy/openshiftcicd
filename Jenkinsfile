@@ -1,4 +1,4 @@
-def templatePath = 'https://raw.githubusercontent.com/praveenrachamreddy/openshiftcicd/main/nodejs-mongodb.json' 
+def templatePath = 'https://raw.githubusercontent.com/praveenrachamreddy/openshiftcicd/main/nodejs-mongodb.yml' 
 def templateName = 'nodejs-mongodb-example' 
 pipeline {
   agent {
